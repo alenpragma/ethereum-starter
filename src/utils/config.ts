@@ -10,7 +10,7 @@ export const THEME_CONFIG = {
   initialColorMode: THEME_INITIAL_COLOR,
 }
 
-export const SOCIAL_TWITTER = 'wslyvh'
-export const SOCIAL_GITHUB = 'wslyvh/nexth'
+export const SOCIAL_TWITTER = 'thisisrozel'
+export const SOCIAL_GITHUB = 'alenpragma/ethereum-starter'
 
 export const ETH_CHAINS = [mainnet, goerli, sepolia, polygon, optimism, arbitrum]
